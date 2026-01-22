@@ -14,7 +14,7 @@ st.markdown("**4,712 listings | RF MAE: 69k TND | is_sale 71% importance**")
 # Load data
 @st.cache_data
 def load_model_data():
-    df = pd.read_csv('final/tunisia_estate_complete_clean.csv')
+    df = pd.read_csv('data\\raw\\tunisia_estate_complete_clean.csv')
     return df
 
 df = load_model_data()
