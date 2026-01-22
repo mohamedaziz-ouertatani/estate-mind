@@ -1,0 +1,2 @@
+python estate_mind_full_pipeline.py --test  # Verify
+python estate_mind_full_pipeline.py --scrape-all  # Full

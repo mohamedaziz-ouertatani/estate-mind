@@ -1,0 +1,39 @@
+
+ESTATE-MIND PHASE 2 - DATA UNDERSTANDING
+Generated: 2026-01-20 23:27
+
+📊 DATA SUMMARY:
+Total Raw: 18552 listings
+Total Clean: 11013 valid listings (59.4%)
+
+type             rent  sale
+source                     
+mubawab_rentals  3678    35
+mubawab_sales      38  2738
+tayara           2506  2018
+
+PRICES:
+      count       mean    median         std  min           max
+type                                                           
+rent   6222    33820.0    1600.0   1593483.0  2.0  1.111110e+08
+sale   4791  3313626.0  330000.0  67229912.0  2.0  3.324000e+09
+
+TOP LOCATIONS:
+location_clean
+La Marsa        2150
+Tunis           2117
+Ariana           868
+Le Kram          828
+Nabeul           609
+La Soukra        588
+Sousse           413
+Hammamet         377
+Ben Arous        343
+Ariana Ville     334
+
+✅ FILES READY FOR SUBMISSION:
+• output/estate_data_cleaned.csv
+• output/visuals/eda_complete.png ← PLOT FOR PROF
+• output/phase2_report.txt ← COPY TO WORD
+
+🔜 Phase 3: ML price prediction
