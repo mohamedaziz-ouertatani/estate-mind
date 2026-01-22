@@ -1,7 +1,0 @@
-,price_numeric,price_numeric,price_numeric,size_numeric,size_numeric,size_numeric,rooms_numeric,rooms_numeric,rooms_numeric
-,count,mean,median,count,mean,median,count,mean,median
-category,,,,,,,,,
-apt_rent,2050,12638.0,1900.0,1849,123.0,110.0,1967,2.0,2.0
-apt_sale,1831,382419.0,350000.0,1764,413.0,114.0,1692,2.0,2.0
-house_rent,319,18576.0,3500.0,291,342.0,250.0,309,4.0,4.0
-house_sale,512,484807.0,450000.0,492,345.0,250.0,494,5.0,4.0
